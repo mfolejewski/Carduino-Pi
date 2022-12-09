@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Carduino_Pi_v1.PcbDoc   30.11.2022  11:21:18
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 [TOP] to L2 [BOT]
+ASCII Plated RoundHoles File : Carduino_Pi_v1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : Carduino_Pi_v1-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : Carduino_Pi_v1-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             400       PTH        0.00mm (0.00inch)
+T2      1mm (39mil)                                               Round             46        PTH        0.00mm (0.00inch)
+T3      0.3mm (12mil)                                             Round             12        NPTH       0.00mm (0.00inch)
+T4      1mm (39mil)                                               Slot              1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              459
+
+Total Processing Time (hh:mm:ss) : 00:00:00
