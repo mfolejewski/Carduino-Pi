@@ -11,6 +11,11 @@ Carduino Pi is a Raspberry Pi RP2040 evaluation board with business card form fa
 - 8x ring LED RGB (WS2812-2020 diodes), 
 - fully open source project (OSHW).
 
+Here you can find:
+- \Python: simple script do test RGB ring LED (use Thonny IDE)
+- \Manufacturing files: all the production files for PCB ordering and assembly at JLCPCB (Gerber files, Pick & Place, BOM, etc.)
+- \source files: source files in Altium Designer format (KiCad: TBD)
+
 The equation is very simple:
 Business Card + Arduino + Raspberry Pi RP2040 = Carduino Pi
 
